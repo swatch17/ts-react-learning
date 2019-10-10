@@ -1,0 +1,38 @@
+{
+    "emmet.syntaxProfiles": {
+        "vue-html": "html",
+        "vue": "html",
+        "javascript": "jsx"
+    },
+    "emmet.triggerExpansionOnTab": true,
+    "files.associations": {
+        "*.ejs": "html",
+        "*.wpy": "vue",
+        "*.wxml": "html",
+        "*.wx": "vue",
+        "*.js": "javascriptreact"
+    },
+    "files.exclude": {
+        "**/node_modules": true
+    },
+    "git.autofetch": true,
+    "workbench.activityBar.visible": true,
+    "files.autoSave": "onFocusChange",
+    "breadcrumbs.enabled": true,
+    "editor.fontSize": 12,
+    "editor.fontFamily": "Source Code Pro",
+    "update.enableWindowsBackgroundUpdates": false,
+    "editor.formatOnPaste": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    "workbench.colorTheme": "Solarized Dark",
+    "window.zoomLevel": 1,
+    "fileheader.Author": "schweint615",
+    "fileheader.LastModifiedBy": "swatch17",
+    "[css]": {
+        "editor.defaultFormatter": "aeschli.vscode-css-formatter"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    }
+}
